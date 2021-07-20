@@ -1,4 +1,4 @@
-# KNN & Naive Bayes - Week-9
+# KNN & Naive Bayes  
 
 This is a project that entails building of 2 models;
 
