@@ -16,7 +16,7 @@ To Use the notebook, simply open it, create a copy of it and edit/modify and lat
 Install Python and it's fellow libraries (matplotlib,numpy,e.t.c) in order to understand this project and use the models.
 
 ## Contributing
-This Project was done by Ted Askoye as an assignment project during her time as a Moringa School Student.
+This Project was done by Ted Askoye as an assignment project during his time as a Moringa School Student.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
